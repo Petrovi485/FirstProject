@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="reto">
+    <item>Жди днег</item>
+
+        <item>Не жди денег</item>
+        <item>Что-то жди</item>
+        <item>Ничего не жди</item>
+        <item>Как хочешь</item>
+        <item>Что хочешь</item>
+        <item>Зачем</item>
+        <item>И почему</item>
+
+
+</string-array>
+
+
+
+
+</resources>
